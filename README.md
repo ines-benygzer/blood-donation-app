@@ -6,7 +6,7 @@ This Laravel + React application helps blood banks manage donors, donations, blo
 
 ## Key Features
 
-- **Donor Registry** – List, create, edit and delete donors. The table now displays the **Total Donations** for each donor.
+- **Donor Registry** – List, create, edit and delete donors. The table displays the **Total Donations** for each donor.
 - **Donation Sessions** – Schedule donation events with a location. Each session can be opened directly on **Google Maps**.
 - **Blood Stock Monitoring** – Shows the quantity of each blood type with visual status indicators (`Critical`, `Low`, `Good`).
 - **Hospital Requests** – Hospitals can request blood units. Admins can fulfil requests, which automatically deducts the stock.
